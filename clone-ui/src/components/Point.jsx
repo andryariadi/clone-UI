@@ -11,7 +11,7 @@ export default function Point() {
         <div>
           <p className="text-gray-500 text-[11px] md:text-lg font-medium">
             <span className="font-bold">40</span> will expire on <span className="font-bold">22 Feb 2024</span>.{" "}
-            <Link href="/" className="font-bold text-sky-500">
+            <Link href="/" className="font-bold text-sky-500 cursor-pointer">
               See Deails
             </Link>
           </p>
